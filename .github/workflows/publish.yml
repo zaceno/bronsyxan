@@ -1,4 +1,4 @@
-name: Build & Deploy Website
+name: Build and Deploy Website
 on: [push]
 jobs:
 	build-and-deploy:
