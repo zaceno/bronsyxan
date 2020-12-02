@@ -11,7 +11,7 @@ Styrelsen 2020
 | Vice Ordf.  | Mats Johansson      | Gunnesbovägen 173 | 0703-22 04 70 |
 | Sekreterare | Sofie Gårdebjer     | Gunnesbovägen 193 |               |
 | Kassör      | Bengt Jürs          | Gunnesbovägen 15  |               |
-| Ordinarie   | Janos Balogh        | Gunnesbovägen 75  |               |
+| Ordinarie   | Janos Balogh        | Gunnesbovägen 45  |               |
 | Ordinarie   | Martin Zellman      | Gunnesbovägen 175 |               |
 | Ordinarie   | Dion Granström      | Gunnesbovägen 117 |               |
 | Suppleant   | Esteban Mayobre     | Gunnesbovägen 11  |			    |
