@@ -1,21 +1,21 @@
 ---
-title: Dokumentarkiv
+title: Förvaltning
 ---
 
-Styrelsen 2020
+Styrelsen 2021
 ================
 
 | Post        | Namn                | Adress            | Tel. Nr.      | 
 |-------------|---------------------|-------------------|---------------|
-| Ordförande  | Kristian Martinsson | Gunnesbovägen 97  | 0703-35 24 12 |
-| Vice Ordf.  | Mats Johansson      | Gunnesbovägen 173 | 0703-22 04 70 |
-| Sekreterare | Sofie Gårdebjer     | Gunnesbovägen 193 |               |
-| Kassör      | Bengt Jürs          | Gunnesbovägen 15  |               |
-| Ordinarie   | Janos Balogh        | Gunnesbovägen 45  |               |
-| Ordinarie   | Martin Zellman      | Gunnesbovägen 175 |               |
-| Ordinarie   | Dion Granström      | Gunnesbovägen 117 |               |
-| Suppleant   | Esteban Mayobre     | Gunnesbovägen 11  |			    |
-| Suppleant   | Zacharias Enochsson | Gunnesbovägen 109 | 			    |
+| Ordförande  | Esteban Mayobre     | Gunnesbovägen  5  | 076-863 53 38 |
+| Vice Ordf.  | Janos Balogh        | Gunnesbovägen 45  | 070-833 41 16 |
+| Sekreterare | Carl-Magnus Trygg   |                   |               |
+| Kassör      | Zacharias Enochsson |                   |               |
+| Ordinarie   | Bengt Jürs          |                   |               |
+| Ordinarie   | Jonas Didrik        |                   |               |
+| Suppleant   | Fredric Lecerof     |                   |               |
+| Suppleant   | Martin Harvyl       |                   |               |
+| Suppleant   | Milica Kresojevic   |                   |               |
 
 Styrelsen nås enklast genom personlig kontakt. Du kan även skicka epost till styrelsen@bronsyxan.se, eller lägga en lapp i brevlådan på *Gunnesbovägen 35B*
 

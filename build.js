@@ -2,6 +2,7 @@ const metalsmith = require('metalsmith')
 const markdown = require('metalsmith-markdown')
 const layouts = require('metalsmith-layouts')
 const discoverPartials = require('metalsmith-discover-partials')
+const discoverHelpers = require('metalsmith-discover-helpers')
 const watch = require('metalsmith-watch')
 const assets = require('metalsmith-assets')
 const DEV = process.env.NODE_ENV === 'development'
@@ -13,6 +14,7 @@ let forge = metalsmith(__dirname)
 		tables: true,
 	}))
 	.use(discoverPartials({directory: 'templates'}))
+	.use(discoverHelpers({directory: 'helpers'}))
 	.use(layouts({directory: 'templates', default: 'default.hbs'}))
 	.use(assets({ source: './assets', destination: './'}))
 
