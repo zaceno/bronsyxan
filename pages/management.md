@@ -24,13 +24,9 @@ Styrelsen nås enklast genom personlig kontakt. Du kan även skicka epost till s
 Stämman 
 ===================
 
-Föreningens högsta organ är den årliga stämman. Där väljs styrelse för det kommande året, årsbokslut presenteras, och beslut om ändringar i stadgarna fattas av medlemmarna i föreningen. Som valberedning fungerar de gårdsansvariga.
+Föreningens högsta organ är den årliga stämman. Där väljs styrelse för det kommande året, årsbokslut presenteras, och beslut om ändringar i stadgarna fattas av medlemmarna i föreningen. Som valberedning fungerar de [gårdsansvariga](./yards.html).
 
-Stämmoprotokoll:
-----------------
-
-- [2019](./stammoprotokoll2019.pdf)
-- [2018](./stammoprotokoll2018.pdf)
+[Protokoll från föreningsstämman 2021](./stammoprotokoll2021.pdf)
 
 Stadgar
 ==========
@@ -40,8 +36,10 @@ Här finner du föreningens [stadgar](./Stadgar2011.pdf) enl revisionen 2011
 
 Årsredovisning:
 ===============
+- [2020](./arsredovisning2020.pdf)
 - [2019](./arsredovisning2019.pdf)
 - [2018](./arsredovisning2018.pdf)
-- [2017](./arsredovisning2017.pdf)
+
+
 
 

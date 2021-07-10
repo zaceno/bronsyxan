@@ -13,8 +13,8 @@ De boende själva förväntas engagera sig för att sin respektive gård hålls 
 
 Gård   | Ansvariga           |  Adress            
 -------|---------------------|--------------------
- 1     | Martin Harvyl       | Gunnesbovägen 153  
- 1     | Carl-Magnus Trygg   | Gunnesbovägen 57
+ 1     | Nikola Palanov      | Gunnesbovägen 83  
+ 1     | Pia Lawson          | Gunnesbovägen 35
  2     | Jenny Lindquist     | Gunnesbovägen 29
  3     | Helena Berggren     | Gunnesbovägen 161
  4     | Christina Rodin     | Gunnesbovägen 189
