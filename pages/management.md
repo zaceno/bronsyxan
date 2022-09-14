@@ -25,19 +25,19 @@ Stämman
 
 Föreningens högsta organ är den årliga stämman. Där väljs styrelse för det kommande året, årsbokslut presenteras, och beslut om ändringar i stadgarna fattas av medlemmarna i föreningen. Som valberedning fungerar de [gårdsansvariga](./yards.html).
 
-[Protokoll från föreningsstämman 2021](./stammoprotokoll2021.pdf)
+[protokoll_arsstamma_brf_bronsyxan_30_maj_2022.pdf](https://github.com/zaceno/bronsyxan/files/9564552/protokoll_arsstamma_brf_bronsyxan_30_maj_2022.pdf)
 
 Stadgar
 ==========
 
-Här finner du föreningens [stadgar](./Stadgar2011.pdf) enl revisionen 2011
+Här finner du föreningens [stadgar__181123.pdf](https://github.com/zaceno/bronsyxan/files/9564526/stadgar__181123.pdf) enl revisionen 2018
 
 
 Årsredovisning:
 ===============
-- [2020](./arsredovisning2020.pdf)
-- [2019](./arsredovisning2019.pdf)
-- [2018](./arsredovisning2018.pdf)
+Nedan finner du föreningens årsredovisning för 2021
+
+[arsredovisning_210101211231.pdf](https://github.com/zaceno/bronsyxan/files/9564516/arsredovisning_210101211231.pdf)
 
 
 
