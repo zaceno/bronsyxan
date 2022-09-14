@@ -2,7 +2,7 @@
 title: Förvaltning
 ---
 
-Styrelsen 2021
+Styrelsen 2022
 ================
 
 | Post        | Namn                  | Adress            | Tel. Nr.      | 
