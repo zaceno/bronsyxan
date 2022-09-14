@@ -16,7 +16,7 @@ Aktiviteterna annonseras på föreningens anslagstavla och medlemsinformationsbl
 Samlingslokalen
 ------------------
 
-Vår samlingslokal finns på Gunnesbovägen 65. Den är tillgänglig för uthyrning endast till föreningens medlemmar. Att boka lokalen kostar 100 kr per tillfälle och dygn. 
+Vår samlingslokal finns på Gunnesbovägen 65. Den är tillgänglig för uthyrning endast till föreningens medlemmar. Att boka lokalen kostar 200 kr per tillfälle och dygn. 
 
 I lokalen finns ett pentry med kokplattor, diskmaskin, kylskåp och kaffekokare. Där finns också porslin, glas och bestick. Lokalen är inredd med åtta bord med vardera fyra stolar, totalt 32 sittplatser, samt en soffgrupp. Ett litet kapprum och en toalett.
 
