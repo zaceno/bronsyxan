@@ -202,7 +202,8 @@ Den enskilde medlemmen ansvarar själv för underhåll och eventuella framtida s
 
 Vid försäljning av lägenheten övergår vindsansvaret till köparen. Säljaren är skyldig att informera köparen om detta.
 
-Närmare detaljer om vindsinredning hittar du i föreningens stadgar samt det separata avtal som tecknas med föreningen.
+Närmare detaljer om vindsinredning hittar du i föreningens stadgar samt det separata avtal som tecknas med föreningen. Avtalet finns här 
+[vindsavtal brf Bronsyxan.pdf](https://github.com/zaceno/bronsyxan/files/9564872/vindsavtal.brf.Bronsyxan.pdf)
 
 ### Överlåtelse
 All överlåtelse ska godkännas av styrelsen, dvs. vid försäljning, bodelning, gåva m.m. av bostadsrätten ska säljaren först beviljas utträde ur föreningen och köparen beviljas inträde. Detta sker på styrelsemöte, så meddela styrelsen i god tid före planerad försäljning.
