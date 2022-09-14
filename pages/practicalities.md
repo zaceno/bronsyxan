@@ -149,6 +149,11 @@ Föreningen har en container i ett utrymme intill infartsbommen. I den container
 
 Varje medlem ansvarar själv för skötsel och underhåll av sin bostadsrätt invändigt. Det- samma gäller tomten, även om denna formellt inte är upplåten med bostadsrätt. Föreningen ansvarar bl.a. för utvändigt underhåll av husen och gemensamma markytor. Närmare detaljer om hur ansvaret är fördelat hittar du i bomanualen, samt i föreningens stadgar.
 
+### Utlägg
+Har du gjort ett utlägg som föreningen ska betala. Använd blanketten nedan och skanna gärna kvitton som skickas till föreningens kassör. Det går även bra att lämna pappershandlingar till kassören. 
+
+[uppdrag_om_aterbetalning_av_utlagg.pdf](https://github.com/zaceno/bronsyxan/files/9564273/uppdrag_om_aterbetalning_av_utlagg.pdf)
+
 ### Utvändig skötsel
 
 Du ansvarar själv för underhåll av plank och staket som ska målas, och vid behov måste du byta ut rötskadat trä. Övrig utvändig målning, som t.ex. fönsterkarmar och fönsterfoder, sköts av föreningen.
@@ -202,7 +207,4 @@ Närmare detaljer om vindsinredning hittar du i föreningens stadgar samt det se
 ### Överlåtelse
 All överlåtelse ska godkännas av styrelsen, dvs. vid försäljning, bodelning, gåva m.m. av bostadsrätten ska säljaren först beviljas utträde ur föreningen och köparen beviljas inträde. Detta sker på styrelsemöte, så meddela styrelsen i god tid före planerad försäljning.
 
-### Utlägg
-Har du gjort ett utlägg som föreningen ska betala. Använd blanketten nedan och skanna gärna kvitton som skickas till föreningens kassör. Det går även bra att lämna papperhandlingar till kassören. 
 
-[uppdrag_om_aterbetalning_av_utlagg.pdf](https://github.com/zaceno/bronsyxan/files/9564273/uppdrag_om_aterbetalning_av_utlagg.pdf)
