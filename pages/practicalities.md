@@ -202,3 +202,7 @@ Närmare detaljer om vindsinredning hittar du i föreningens stadgar samt det se
 ### Överlåtelse
 All överlåtelse ska godkännas av styrelsen, dvs. vid försäljning, bodelning, gåva m.m. av bostadsrätten ska säljaren först beviljas utträde ur föreningen och köparen beviljas inträde. Detta sker på styrelsemöte, så meddela styrelsen i god tid före planerad försäljning.
 
+### Utlägg
+Har du gjort ett utlägg som föreningen ska betala. Använd blanketten nedan och skanna gärna kvitton som skickas till föreningens kassör. Det går även bra att lämna papperhandlingar till kassören. 
+
+[uppdrag_om_aterbetalning_av_utlagg.pdf](https://github.com/zaceno/bronsyxan/files/9564273/uppdrag_om_aterbetalning_av_utlagg.pdf)
