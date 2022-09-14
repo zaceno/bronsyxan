@@ -5,17 +5,16 @@ title: Förvaltning
 Styrelsen 2021
 ================
 
-| Post        | Namn                | Adress            | Tel. Nr.      | 
-|-------------|---------------------|-------------------|---------------|
-| Ordförande  | Esteban Mayobre     | Gunnesbovägen  5  | 076-863 53 38 |
-| Vice Ordf.  | Janos Balogh        | Gunnesbovägen 45  | 070-833 41 16 |
-| Sekreterare | Carl-Magnus Trygg   |                   |               |
-| Kassör      | Zacharias Enochsson |                   |               |
-| Ordinarie   | Bengt Jürs          |                   |               |
-| Ordinarie   | Jonas Didrik        |                   |               |
-| Suppleant   | Fredric Lecerof     |                   |               |
-| Suppleant   | Martin Harvyl       |                   |               |
-| Suppleant   | Milica Kresojevic   |                   |               |
+| Post        | Namn                  | Adress            | Tel. Nr.      | 
+|-------------|---------------------  |-------------------|---------------|
+| Ordförande  | Jonas Didrik          | Gunnesbovägen 115 | 073-512 79 23 |
+| Vice Ordf.  | Janos Balogh          | Gunnesbovägen 45  | 070-833 41 16 |
+| Sekreterare | Carl-Magnus Trygg     |                   |               |
+| Kassör      | Zacharias Enochsson   |                   |               |
+| Ordinarie   | Riad Sköld Aliefendic |                   |               |
+| Suppleant   | Fredric Lecerof       |                   |               |
+| Suppleant   | Martin Harvyl         |                   |               |
+| Suppleant   | Milica Kresojevic     |                   |               |
 
 Styrelsen nås enklast genom personlig kontakt. Du kan även skicka epost till styrelsen@bronsyxan.se, eller lägga en lapp i brevlådan på *Gunnesbovägen 35B*
 
