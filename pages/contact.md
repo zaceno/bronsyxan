@@ -19,7 +19,7 @@ Felanmälan
 
 Icke akuta fel anmäls till Clifa.
 
-E-post: 	felanmalan@clifa.se  
+E-post: 	fastighetsservice@climat80.se  
 Telefon: 	**046 – 10 14 02**
 
 Kostanden för åtgärder som hör till bostadsrättshavarens ansvarsområde betalar medlemmen själv för.
