@@ -53,4 +53,4 @@ Bredablick biträder styrelsen med föreningens ekonomiska förvaltning. För me
 Samlingslokalen
 ================
 
-För att boka samlingslokalen, kontakta Pia Svensson, Gunnesbovägen 37. Du bokar via mail till pia_svensson60@hotmail.com eller genom att skicka sms med namn, boendenummer och mobilnummer till tfn 073-780 02 70.
+För att boka samlingslokalen, kontakta Pia Svensson, Gunnesbovägen 37. Du bokar via mail till pia_svensson60@hotmail.com eller genom att skicka sms med namn, boendenummer och mobilnummer till tfn 073-780 02 70. Tänk på att du måste få bokningen bekräftad för att lokalen ska vara bokad.
