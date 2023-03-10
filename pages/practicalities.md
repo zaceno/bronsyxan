@@ -114,6 +114,8 @@ Samlingslokalen bokas genom den lokalansvarige, som tillhandahåller nyckel och 
 
 Särskilda ordningsregler gäller för dem som använder lokalen. Bland annat måste tystnad respekteras efter kl. 01.00 och rökning är inte tillåten. Städning och inspektion ska ske efter användandet.
 
+För att boka samlingslokalen, kontakta Pia Svensson, Gunnesbovägen 37. Du bokar via mail till pia_svensson60@hotmail.com eller genom att skicka sms med namn, boendenummer och mobilnummer till tfn 073-780 02 70.
+
 ### Snöröjning
 
 Snöröjning och halkbekämpning i området sköts av teknisk förvaltare på uppdrag av föreningen.
