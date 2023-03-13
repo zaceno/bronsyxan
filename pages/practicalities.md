@@ -76,6 +76,10 @@ Föreningen abonnerar på ett basutbud av TV-kanaler via Com Hem. Bredband finns
 
 Bredband via fiber är även indraget i varje lägenhet. Internetanslutningen ingår i förening- ens avgift. Avtal gällande individuella tjänster tecknas av medlemmarna själva. Kontakta Ownit för aktuell information gällande detta bredband. https://www.ownit.se/privat-bredband
 
+### Laddboxar i garagen
+
+Varje garageplats har en tillhörande laddbox för elbil. Vill du ladda din bil ta först kontakt med styrelsen. Föreningen debiterar dig för den faktiska förbrukningen när du laddar din bil via boxen. 
+
 ### Larm
 
 Örestads Bevakning har hand om fastighetsjouren. Vid akuta (och endast akuta!) problem, ring Jour: 040 – 93 12 70. Exempelvis om det uppstår akuta problem, såsom vattenläckage, stopp i avlopp, utelåsning, åverkan på lås vid inbrott och glasskador. Medlem betalar själv för akuta tjänster.
