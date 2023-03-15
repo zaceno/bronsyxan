@@ -25,4 +25,4 @@ Ett hemmabiosystem med projektor står till förfogande mot en depositionsavgift
 
 I samband med bokningen förbinder man sig att följa föreningens regler för användandet av lokalen. Läs [hyresavtalet här](./Hyresavtal-Samlingslokal.pdf)
 
-Kontakta Pia Svensson, Gunnesbovägen 37 för att boka lokalen.
+Kontakta Pia Svensson, Gunnesbovägen 37 för att boka lokalen. Du bokar via mail till pia_svensson60@hotmail.com eller genom att skicka sms med namn, boendenummer och mobilnummer till tfn 073-780 02 70. Tänk på att du måste få bokningen bekräftad för att lokalen ska vara bokad.
