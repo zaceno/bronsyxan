@@ -36,9 +36,9 @@ Här finner du föreningens stadgar [Stadgar 221024.pdf](https://github.com/zace
 
 Årsredovisning:
 ===============
-Nedan finner du föreningens årsredovisning för 2021
+Nedan finner du föreningens årsredovisning för 2022
 
-[arsredovisning_210101211231.pdf](https://github.com/zaceno/bronsyxan/files/9564516/arsredovisning_210101211231.pdf)
+assets/arsredovisning__220101221231.pdf
 
 
 
