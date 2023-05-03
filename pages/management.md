@@ -7,14 +7,15 @@ Styrelsen 2022
 
 | Post        | Namn                  | Adress            | Tel. Nr.      | 
 |-------------|---------------------  |-------------------|---------------|
-| Ordförande  | Jonas Didrik          | Gunnesbovägen 115 | 073-512 79 23 |
-| Vice Ordf.  | Janos Balogh          | Gunnesbovägen 45  | 070-833 41 16 |
+| Ordförande  | Janos Balogh          | Gunnesbovägen 45  | 070-833 41 16 |
+| Vice Ordf.  | Kristian Martinsson   | Gunnesbovägen 97  |               |
 | Sekreterare | Carl-Magnus Trygg     |                   |               |
-| Kassör      | Zacharias Enochsson   |                   |               |
+| Kassör      | Jonas Didrik          |                   |               |
 | Ordinarie   | Riad Sköld Aliefendic |                   |               |
-| Suppleant   | Fredric Lecerof       |                   |               |
-| Suppleant   | Martin Harvyl         |                   |               |
-| Suppleant   | Milica Kresojevic     |                   |               |
+| Ordinarie   | Annelie Gerhardt      |                   |               |
+| Suppleant   | Mattias Hammar        |                   |               |
+| Suppleant   | Helena Spurling       |                   |               |
+| Suppleant   | Fabrice Lawson        |                   |               |
 
 Styrelsen nås enklast genom personlig kontakt. Du kan även skicka epost till styrelsen@bronsyxan.se, eller lägga en lapp i brevlådan på *Gunnesbovägen 35B*
 
