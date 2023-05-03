@@ -9,10 +9,10 @@ Styrelsen 2022
 |-------------|---------------------  |-------------------|---------------|
 | Ordförande  | Janos Balogh          | Gunnesbovägen 45  | 070-833 41 16 |
 | Vice Ordf.  | Kristian Martinsson   | Gunnesbovägen 97  |               |
-| Sekreterare | Carl-Magnus Trygg     |                   |               |
-| Kassör      | Jonas Didrik          |                   |               |
-| Ordinarie   | Riad Sköld Aliefendic |                   |               |
-| Ordinarie   | Annelie Gerhardt      |                   |               |
+| Sekreterare | Carl-Magnus Trygg     | Gunnesbovägen 57  |               |
+| Kassör      | Jonas Didrik          | Gunnesbovägen 115 |               |
+| Ordinarie   | Riad Sköld Aliefendic | Gunnesbovägen 111 |               |
+| Ordinarie   | Annelie Gerhardt      | Gunnesbovägen 49  |               |
 | Suppleant   | Mattias Hammar        |                   |               |
 | Suppleant   | Helena Spurling       |                   |               |
 | Suppleant   | Fabrice Lawson        |                   |               |
