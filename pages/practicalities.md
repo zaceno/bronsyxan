@@ -78,7 +78,9 @@ Bredband via fiber är även indraget i varje lägenhet. Internetanslutningen in
 
 ### Laddboxar i garagen
 
-Varje garageplats har en tillhörande laddbox för elbil. Vill du ladda din bil ta först kontakt med styrelsen. Föreningen debiterar dig för den faktiska förbrukningen när du laddar din bil via boxen. 
+Varje garageplats har en tillhörande laddbox för elbil. Vill du ladda din bil ta först kontakt med styrelsen. Styrelsen behöver din e-post och garagenummer. Föreningen debiterar dig för den faktiska förbrukningen när du laddar din bil via boxen. Du kan följa förbrukningen via en app. Manual och serviceguide finns här:
+
+[Laddarboxar service och användning.pdf](https://github.com/zaceno/bronsyxan/files/11418173/Laddarboxar.service.och.anvandning.pdf)
 
 ### Larm
 
