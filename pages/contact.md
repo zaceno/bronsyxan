@@ -4,7 +4,7 @@ title: Kontakt
 
 Akuta fel
 =========
-Clifa har hand om fastighetsjouren i Brf. Bronsyxan med hjälp av Örestads Bevakning. Vid akuta (och endast akuta!) problem, ring Jour: **040 – 93 12 70** De kan hjälpa till vid:
+Climat80 har hand om fastighetsjouren i Brf. Bronsyxan med hjälp av Örestads Bevakning. Vid akuta (och endast akuta!) problem, ring Jour: **040 – 93 12 70** De kan hjälpa till vid:
 
 - akuta VVS problem, stopp i avlopp, vattenläckage
 - åverkan på lås vid inbrott
@@ -17,7 +17,7 @@ Medlem betalar själv för akuta tjänster.
 Felanmälan
 ==========
 
-Icke akuta fel anmäls till Clifa.
+Icke akuta fel anmäls till Climat80.
 
 E-post: 	fastighetsservice@climat80.se  
 Telefon: 	**046 – 10 14 02**
