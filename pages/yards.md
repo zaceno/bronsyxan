@@ -13,12 +13,12 @@ De boende själva förväntas engagera sig för att sin respektive gård hålls 
 
 Gård   | Ansvariga           |  Adress            
 -------|---------------------|--------------------
- 1     | Annelie Stenquist   | Gunnesbovägen 151  
- 1     | Saif Al-Othamani    | Gunnesbovägen 79  
+ 1     | Annelie Stenquist   | Gunnesbovägen 151
+ 1     | Filmon Maricos      | Gunnesbovägen 75
  2     | Lovisa Majtorp      | Gunnesbovägen 15
  3     | Linda Ralvert       | Gunnesbovägen 177
  4     | Christina Rodin     | Gunnesbovägen 189
  5     | Cornelia Runehammar | Gunnesbovägen 117
-              
- 
+
+
  Gårdsansvariga fungerar även som valberedning till föreningsstämman.
