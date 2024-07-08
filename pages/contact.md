@@ -44,8 +44,8 @@ Postadress:
 Fakturaadress:
 
 > Brf Bronsyxan  
-> HEM7367164069674
-> Box 171
+> HEM7367164069674  
+> Box 171  
 > 831 22 Östersund
 
 Bredablick biträder styrelsen med föreningens ekonomiska förvaltning. För mer info om Bredablick se deras hemsida.http://www.bredablickforvaltning.se
