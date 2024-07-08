@@ -44,9 +44,9 @@ Postadress:
 Fakturaadress:
 
 > Brf Bronsyxan  
-> FTG-nr 493  
-> FE 754  
-> 838 74 Frösön  
+> HEM7367164069674
+> Box 171
+> 831 22 Östersund
 
 Bredablick biträder styrelsen med föreningens ekonomiska förvaltning. För mer info om Bredablick se deras hemsida.http://www.bredablickforvaltning.se
 
