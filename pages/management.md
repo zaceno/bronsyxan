@@ -2,7 +2,7 @@
 title: Förvaltning
 ---
 
-Styrelsen 2023
+Styrelsen 2025
 ================
 
 | Post        | Namn                  | Adress            | Tel. Nr.      |
@@ -11,11 +11,11 @@ Styrelsen 2023
 | Vice Ordf.  | Kristian Martinsson   | Gunnesbovägen 97  |               |
 | Sekreterare | Carl-Magnus Trygg     | Gunnesbovägen 57  |               |
 | Kassör      | Mattias Hammar        | Gunnesbovägen 93  |               |
-| Ordinarie   | Riad Sköld Aliefendic | Gunnesbovägen 111 |               |
-| Ordinarie   | Annelie Gerhardt      | Gunnesbovägen 49  |               |
-| Suppleant   | Lorena Begic          |                   |               |
-| Suppleant   | Helena Spurling       |                   |               |
-| Suppleant   | Fabrice Lawson        |                   |               |
+| Ordinarie   | Lorena Begic          | Gunnesbovägen 199 |               |
+| Ordinarie   | Erlis Shahu           | Gunnesbovägen 185 |               |
+| Suppleant   | Mats Andersson        |                   |               |
+| Suppleant   | Richard Agerström     |                   |               |
+| Suppleant   | Annelie Gerhardt      |                   |               |
 
 Styrelsen nås enklast genom personlig kontakt. Du kan även skicka epost till styrelsen@bronsyxan.se, eller lägga en lapp i brevlådan på *Gunnesbovägen 35B*
 
@@ -26,7 +26,8 @@ Stämman
 
 Föreningens högsta organ är den årliga stämman. Där väljs styrelse för det kommande året, årsbokslut presenteras, och beslut om ändringar i stadgarna fattas av medlemmarna i föreningen. Som valberedning fungerar de [gårdsansvariga](./yards.html).
 
-[arsmotesprotokoll_apr_2024_brf_bronsyxan_signerat.pdf](./arsmotesprotokoll_apr_2024_brf_bronsyxan_signerat.pdf)
+[arsmotesprotokoll_apr_2025_brf_bronsyxan_signerat.pdf](./arsmotesprotokoll_apr_2025_brf_bronsyxan_signerat.pdf)
+
 Stadgar
 ==========
 
@@ -37,7 +38,7 @@ Här finner du föreningens stadgar [Stadgar 221024.pdf](https://github.com/zace
 ===============
 Nedan finner du föreningens årsredovisning för 2022
 
-[arsredovisning_2023.pdf](./arsredovisning_2023.pdf)
+[arsredovisning_2024.pdf](./arsredovisning_2024.pdf)
 
 
 
