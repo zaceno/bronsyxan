@@ -38,8 +38,8 @@ Postadress:
 
 > Brf Bronsyxan  
 > c/o Bredablick Förvaltning  
-> Box 243  
-> 201 22 Malmö  
+> Box 1001
+> 251 10 Helsingborg
 
 Fakturaadress:
 
