@@ -15,7 +15,7 @@ Styrelsen 2026
 | Ordinarie   | Erlis Shahu           | Gunnesbovägen 185 |               |
 | Suppleant   | Mats Andersson        |                   |               |
 | Suppleant   | Richard Agerström     |                   |               |
-| Suppleant   | Linda Ralvet          |                   |               |
+| Suppleant   | Linda Ralvert         |                   |               |
 
 Styrelsen nås enklast genom personlig kontakt. Du kan även skicka epost till styrelsen@bronsyxan.se, eller lägga en lapp i brevlådan på *Gunnesbovägen 35B*
 
