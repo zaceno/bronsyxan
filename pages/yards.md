@@ -11,14 +11,14 @@ De boende själva förväntas engagera sig för att sin respektive gård hålls 
 
 <a name="gardsansvariga" />
 
-Gård   | Ansvariga           |  Adress            
--------|---------------------|--------------------
- 1     | Annelie Stenquist   | Gunnesbovägen 151
- 1     | Filmon Maricos      | Gunnesbovägen 75
- 2     | Lovisa Majtorp      | Gunnesbovägen 15
- 3     | Linda Ralvert       | Gunnesbovägen 177
- 4     | Christina Rodin     | Gunnesbovägen 189
- 5     | Cornelia Runehammar | Gunnesbovägen 117
+Gård   | Ansvariga                |  Adress
+-------|--------------------------|--------------------
+ 1     | Filmon Maricos           | Gunnesbovägen 75
+ 1     | Ulrika Jonasson          | Gunnesbovägen 149
+ 2     | Henrik Roos              | Gunnesbovägen 17
+ 3     | Christoffer Lagerstrand  | Gunnesbovägen 163
+ 4     | Christina Rodin          | Gunnesbovägen 189
+ 5     | Cornelia Runehammar      | Gunnesbovägen 117
 
 
  Gårdsansvariga fungerar även som valberedning till föreningsstämman.

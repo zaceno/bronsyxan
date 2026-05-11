@@ -2,7 +2,7 @@
 title: Förvaltning
 ---
 
-Styrelsen 2025
+Styrelsen 2026
 ================
 
 | Post        | Namn                  | Adress            | Tel. Nr.      |
@@ -15,7 +15,7 @@ Styrelsen 2025
 | Ordinarie   | Erlis Shahu           | Gunnesbovägen 185 |               |
 | Suppleant   | Mats Andersson        |                   |               |
 | Suppleant   | Richard Agerström     |                   |               |
-| Suppleant   | Annelie Gerhardt      |                   |               |
+| Suppleant   | Linda Ralvet          |                   |               |
 
 Styrelsen nås enklast genom personlig kontakt. Du kan även skicka epost till styrelsen@bronsyxan.se, eller lägga en lapp i brevlådan på *Gunnesbovägen 35B*
 
@@ -26,7 +26,7 @@ Stämman
 
 Föreningens högsta organ är den årliga stämman. Där väljs styrelse för det kommande året, årsbokslut presenteras, och beslut om ändringar i stadgarna fattas av medlemmarna i föreningen. Som valberedning fungerar de [gårdsansvariga](./yards.html).
 
-[arsmotesprotokoll_apr_2025_brf_bronsyxan_signerat.pdf](./arsmotesprotokoll_apr_2025_brf_bronsyxan_signerat.pdf)
+[arsmotesprotokoll_apr_2026_brf_bronsyxan_signerat.pdf](./arsmotesprotokoll_apr_2026_brf_bronsyxan_signerat.pdf)
 
 Stadgar
 ==========
@@ -36,9 +36,9 @@ Här finner du föreningens stadgar [Stadgar 221024.pdf](https://github.com/zace
 
 Årsredovisning:
 ===============
-Nedan finner du föreningens årsredovisning för 2022
+Nedan finner du föreningens årsredovisning för 2025
 
-[arsredovisning_2024.pdf](./arsredovisning_2024.pdf)
+[arsredovisning_2024.pdf](./arsredovisning_2025.pdf)
 
 
 
