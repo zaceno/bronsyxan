@@ -31,7 +31,7 @@ Föreningens högsta organ är den årliga stämman. Där väljs styrelse för d
 Stadgar
 ==========
 
-Här finner du föreningens stadgar [Stadgar 221024.pdf](https://github.com/zaceno/bronsyxan/files/9866442/Stadgar.221024.pdf) enligt revison revison efter stämmans beslut 2021.
+Här finner du föreningens stadgar [Stadgar 2026.pdf](./stadgar_2026.pdf) enligt revison efter stämmans beslut 2026.
 
 
 Årsredovisning:
